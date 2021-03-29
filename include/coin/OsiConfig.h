@@ -5,15 +5,15 @@
 #define __CONFIG_OSI_H__
 
 /* Version number of project */
-#define OSI_VERSION "0.107.8"
+#define OSI_VERSION "0.108.6"
 
 /* Major Version number of project */
 #define OSI_VERSION_MAJOR 0
 
 /* Minor Version number of project */
-#define OSI_VERSION_MINOR 107
+#define OSI_VERSION_MINOR 108
 
 /* Release Version number of project */
-#define OSI_VERSION_RELEASE 8
+#define OSI_VERSION_RELEASE 6
 
 #endif
