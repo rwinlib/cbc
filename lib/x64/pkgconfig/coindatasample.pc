@@ -1,4 +1,4 @@
-prefix=/mingw64
+prefix=/ucrt64
 datadir=${prefix}/share/coin/Data/Sample
 
 Name: Sample

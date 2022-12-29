@@ -1,0 +1,1 @@
+-LD:/a/rtools-packages/rtools-packages/mingw-w64-coinor-cbc/pkg/mingw-w64-x86_64-coinor-cbc/mingw64/lib -lCgl -lOsiClp -lClpSolver -lClp -lOsi -lCoinUtils -lz -lm
